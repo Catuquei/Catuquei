@@ -1,8 +1,16 @@
-hi i am catuquei 👋
-- **i am english block game enthusiast**
-- **currently working on CatHack - https://discord.gg/8f36MKtkBm***
-- **feel free to contact me on discord**
-- [![GitHub followers](https://img.shields.io/github/followers/Catuquei.svg?style=social&label=Followers)](https://github.com/Catuquei?tab=followers)
+catuquei
+- a british block game enthusiast
+- proud inventor/maker of NoatAutoSlave/NoatAuto~~Groom~~
+
+current projects
+- cathack
+- oyvey++
+- popgod.cc
+
+contact (feel free to contact me on discord awa)
+- Catuquei#3739
+
+[![GitHub followers](https://img.shields.io/github/followers/Catuquei.svg?style=social&label=Followers)](https://github.com/Catuquei?tab=followers)
 
 ![Catuquei discord status](https://discord.c99.nl/widget/theme-1/531501086855397377.png)
 
