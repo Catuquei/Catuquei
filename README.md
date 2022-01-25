@@ -3,9 +3,8 @@ catuquei
 - proud inventor/maker of NoatAutoSlave/NoatAuto~~Groom~~
 
 current projects
-- cathack
-- oyvey++
-- popgod.cc
+- nothing but oyvey skids
+
 
 contact (feel free to contact me on discord awa)
 - Catuquei#3739
