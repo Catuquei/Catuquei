@@ -3,7 +3,7 @@ catuquei
 - proud inventor/maker of NoatAutoSlave/NoatAuto~~Groom~~
 
 current projects
-- nothing but oyvey skids
+- delta - https://github.com/noatmc/delta
 
 
 contact (feel free to contact me on discord awa)
