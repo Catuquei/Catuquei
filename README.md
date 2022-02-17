@@ -13,5 +13,4 @@ contact (feel free to contact me on discord awa)
 
 ![Catuquei discord status](https://discord.c99.nl/widget/theme-1/531501086855397377.png)
 
-![Catuquei GitHub stats](https://github-readme-stats.vercel.app/api?username=Catuquei&show_icons=true&theme=radical)
 
