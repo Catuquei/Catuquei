@@ -15,4 +15,3 @@ contact (feel free to contact me on discord awa)
 
 ![Catuquei GitHub stats](https://github-readme-stats.vercel.app/api?username=Catuquei&show_icons=true&theme=radical)
 
-
