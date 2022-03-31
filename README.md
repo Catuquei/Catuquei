@@ -11,6 +11,7 @@ contact (feel free to contact me on discord awa)
 
 [![GitHub followers](https://img.shields.io/github/followers/Catuquei.svg?style=social&label=Followers)](https://github.com/Catuquei?tab=followers)
 
-![Catuquei discord status](https://discord.c99.nl/widget/theme-1/531501086855397377.png)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/531501086855397377)](https://discord.com/users/531501086855397377)
 
 
