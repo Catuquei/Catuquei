@@ -1,5 +1,5 @@
 catuquei
-- a british block game enthusiast
+- block game 
 - proud inventor/maker of NoatAutoSlave/NoatAuto~~Groom~~
 
 current projects
