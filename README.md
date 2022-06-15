@@ -14,6 +14,6 @@ contact (feel free to contact me on discord awa)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/531501086855397377)](https://discord.com/users/531501086855397377)
 
-ps pls help i am stuck in noats basement :/
+yes i am alive
 
 
