@@ -2,6 +2,9 @@ catuquei
 - block game 
 - proud inventor/maker of NoatAutoSlave/NoatAuto~~Groom~~
 
+current projects
+-!?
+
 past projects
 - delta - https://github.com/noatmc/delta
 
