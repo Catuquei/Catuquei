@@ -1,4 +1,4 @@
-- bachelor degree
+bachelor degree
 
 university of neutron
 
