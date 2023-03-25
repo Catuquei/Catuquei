@@ -1,6 +1,10 @@
-- it is what it is
+- bachelor degree
+university of neutron
+mr. catuquei
+computer science program
+skidding & java
+-noatmc 2023
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/531501086855397377)](https://discord.com/users/531501086855397377)
-
+- contact me at Catuquei#3739
 
