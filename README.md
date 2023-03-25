@@ -1,14 +1,12 @@
 - bachelor degree
 
--university of neutron
+university of neutron
 
--mr. catuquei
+mr. catuquei
 
--computer science program
+computer science program
 
--skidding & java
-
--noatmc 2023
+skidding & java
 
 
 
